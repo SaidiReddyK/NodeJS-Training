@@ -1,0 +1,29 @@
+{
+  "name": "express_app",
+  "version": "1.0.0",
+  "description": "My first web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenNebula/one.git"
+  },
+  "author": "Saidi",
+  "Keywords": [
+    "NodeJS",
+    "MEAN",
+    "ExpressJS"
+  ],
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "latest",
+    "jade": "*"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenNebula/one/issues"
+  },
+  "homepage": "https://github.com/OpenNebula/one#readme"
+}

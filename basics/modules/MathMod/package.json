@@ -1,0 +1,6 @@
+{
+	"name" : "MathMod",
+	"version" : "1.0.0",
+	"description" : "APIs for basic Math",
+	"main" : "root.js"
+}
